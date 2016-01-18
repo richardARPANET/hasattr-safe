@@ -3,6 +3,12 @@
 
 `hasattr()` in Python 2 hides all exceptions, `hasattr_safe()` does not, as is the behaviour in Python 3.
 
+### Installation
+
+```bash
+pip install hasattr-safe
+```
+
 ### Usage
 
 
