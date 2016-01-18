@@ -1,4 +1,4 @@
-from hasattr_safe import hasattr_safe
+import hasattr_safe
 
 
 def test_returns_false_when_object_missing_attr():

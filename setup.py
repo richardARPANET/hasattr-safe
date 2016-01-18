@@ -20,7 +20,7 @@ setup(
     package_dir={'': 'src'},
     include_package_data=True,
     zip_safe=False,
-    description='hello world',
+    description='A non-harmful hasattr',
     author='Richard O\'Dwyer',
     author_email='richard@richard.do',
     license='Creative Commons Attribution-Noncommercial-Share Alike license',
